@@ -15,11 +15,11 @@ In this project, you will use data provided by Motivate, a bike share system pro
 
 # Have to Use Script 
 
-Pyhton 3.6
-Visual Studio Code
-Anaconda
-Numpy
-Git 2.3
+Pyhton 3.6,
+Visual Studio Code,
+Anaconda,
+Numpy,
+Git 2.3,
 
 
 # The Datasets 
@@ -55,13 +55,13 @@ counts of each gender
 earliest, most recent, most common year of birth 
 
 # The Files 
-chicago.csv
-new_york_city.csv
-washington.csv
-bikeshare.py
+chicago.csv,
+new_york_city.csv,
+washington.csv,
+bikeshare.py,
 
 # Reference 
-https://stackoverflow.com/
+https://stackoverflow.com/,
 https://udacity.github.io/git-styleguide/
 
 
